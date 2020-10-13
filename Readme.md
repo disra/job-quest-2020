@@ -18,6 +18,7 @@ Answer:
 - 2.2 Average **level** for hero that has 'intelligent' as **primary_attribute**
 - 2.3 Find the hero who got the most **assist**
 - 2.4 Find the hero who got the worst **kill/death ratio** (ratio = kill/death)
+
 Answer:
 ```javascript
 ```
@@ -31,19 +32,22 @@ This part of quest will be a challenging one. You are going to make a simple web
 ### Technical description
 - Using data from [REST API](http://www.icndb.com/api/)
 - Any tools & framework is allowed.
-- If you are using tools & framework which is same as our tech stack (React, Redux, styled-components, recompose etc.) will be a plus.
+- If you are using tools & framework which is same as our tech stack (React, Redux, styled-components etc.) will be a plus.
 - Any extra feature will be a plus.
+
 Answer:
 ```
 
 ```
+
 ## Questions
 Q1: What do you do if the tester found a bug on your application on Saturday?
-A1:
+
 Q2: Do you think working with Thai people will be difficult to communicate?
-A2:
+
 Q3: What do you expect to get from work at Eiloy?
-A3:
+
+
 ## Submitting
 Please fork this repo and submit your repository at p.kittisak@forexcityth.com along with your contact information.
 Note: These challenges must be done by yourself. There is no benefit for both sides if the answer do not reflect your true skill.
