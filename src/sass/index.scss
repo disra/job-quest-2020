@@ -1,0 +1,18 @@
+$grey: #DFDFDF;
+
+.list-group{
+    height: 50vh;
+    overflow-y: scroll;
+    border-radius: 0;
+    .list-group-item{
+        border: 0;
+        border-bottom: 1px solid $grey;
+        border-radius: 0;
+        padding-left: 0;
+        padding-bottom: 2rem;
+        color: skyblue;
+        &:nth-child(odd){
+            color: tomato;
+        }
+    }
+}
